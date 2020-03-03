@@ -1,2 +1,2 @@
-def solution:
+def Solution():
   raise NotImplementedError
